@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+sentimentapp.log
+models/
+reports/
+predictions/
+.pytest_cache/
